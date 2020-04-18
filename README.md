@@ -1,0 +1,2 @@
+# freeVPN
+my private config
